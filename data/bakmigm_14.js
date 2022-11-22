@@ -1,0 +1,1 @@
+var json_bakmigm_14 = {"type":"FeatureCollection","name":"bakmigm_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama Tempat":"Bakmi GM Botani Square","x":-6.60191,"y":106.80787},"geometry":{"type":"Point","coordinates":[106.807874,-6.601911]}}]}
